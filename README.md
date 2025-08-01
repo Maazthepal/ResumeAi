@@ -39,11 +39,11 @@ Paste these commands in your terminal:
 
 # 📁 Folder Structure
 
-src/
-├── components/        # Reusable UI components
-├── lib/               # Puter logic, PDF tools, utils
-├── Routes/            # App pages: Upload, Resume, Auth
-├── public/            # Images and static files
+src/ <br>
+├── components/        # Reusable UI components <br>
+├── lib/               # Puter logic, PDF tools, utils <br>
+├── Routes/            # App pages: Upload, Resume, Auth <br>
+├── public/            # Images and static files <br>
 
 # 🧪 How It Works
 
