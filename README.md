@@ -18,7 +18,7 @@ Resumind is a web app that gives smart, AI-powered feedback on your resume to he
 
 ⚡ Fast and responsive UI built with React + Zustand
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React, Vite, Zustand
 
@@ -30,9 +30,9 @@ PDF to Image: pdfjs-dist
 
 Routing: React Router DOM
 
-## 🛆 Installation
+🛆 Installation
 <br>
-``git clone https://github.com/Maazthepal/ResumeAi.git `` 
+``git clone https://github.com/Maazthepal/ResumeAi.git`` 
 <br>
 ``cd resumeAi``
 <br>
