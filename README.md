@@ -2,7 +2,7 @@
 
 Resumind is a web app that gives smart, AI-powered feedback on your resume to help you land your dream job. Upload your resume, describe the job you're applying for, and get ATS-friendly insights and suggestions — instantly.
 
-🚀 Features
+🚀 ##Features
 
 ✅ Upload your resume (PDF)
 
