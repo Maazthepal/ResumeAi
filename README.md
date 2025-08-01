@@ -4,7 +4,7 @@ Resumind is a web app that gives smart, AI-powered feedback on your resume to he
 
 ## 🚀 Features
 
-# ✅ Upload your resume (PDF)
+## ✅ Upload your resume (PDF)
 
 # 🧠 AI-powered resume analysis
 
