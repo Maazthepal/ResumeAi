@@ -31,11 +31,11 @@ PDF to Image: pdfjs-dist
 Routing: React Router DOM
 
 🛆 Installation
-
-``git clone https://github.com/Maazthepal/ResumeAi.git ``
-``cd resumeAi``
-``npm install``
-``npm run dev``
+<br>
+``git clone https://github.com/Maazthepal/ResumeAi.git `` <br>
+``cd resumeAi``<br>
+``npm install``<br>
+``npm run dev``<br>
 
 📁 Folder Structure
 
