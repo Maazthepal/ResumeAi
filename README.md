@@ -31,11 +31,11 @@ Upload your resume, describe the job you're applying for, and get ATS-friendly i
 
 Paste these commands in your terminal:
 
-```bash```
-```git clone https://github.com/Maazthepal/ResumeAi.git```
-```cd resumeA```
-```npm install```
-```npm run dev```
+
+```git clone https://github.com/Maazthepal/ResumeAi.git``` <br>
+```cd resumeA``` <br>
+```npm install```<br>
+```npm run dev```<br>
 
 # 📁 Folder Structure
 
