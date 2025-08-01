@@ -30,7 +30,9 @@ PDF to Image: pdfjs-dist
 
 Routing: React Router DOM
 
-🛆 Installation
+# 🛆 Installatiom
+
+Paste These Commands in Your Terminal <br>
 <br>
 ``git clone https://github.com/Maazthepal/ResumeAi.git`` 
 <br>
