@@ -40,7 +40,7 @@ Paste these commands in your terminal:
 # 📁 Folder Structure
 
 src/ <br>
-├── components/        # Reusable UI components <br>
+├── components/   &nbsp;     # Reusable UI components <br>
 ├── lib/               # Puter logic, PDF tools, utils <br>
 ├── Routes/            # App pages: Upload, Resume, Auth <br>
 ├── public/            # Images and static files <br>
