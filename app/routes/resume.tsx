@@ -1,6 +1,9 @@
 import {Link, useNavigate, useParams} from "react-router";
 import {useEffect, useState} from "react";
 import {usePuterStore} from "~/lib/puter";
+import Summary from "~/components/Summary";
+import Details from "~/components/Details";
+import ATS from "~/components/ATS";
 export const meta = () => ([
     { title: 'Resumind | Review ' },
     { name: 'description', content: 'Detailed overview of your resume' },
@@ -17,6 +20,12 @@ const Resume = () => {
     useEffect(() => {
         if(!isLoading && !auth.isAuthenticated) navigate(`/auth?next=/resume/${id}`);
     }, [isLoading])
+
+    useEffect(() => {
+        if(!isLoading && !auth.isAuthenticated) {
+            navigate(`/auth?next=/resume/${id}`);
+        }
+    }, [auth.isAuthenticated]);
 
     useEffect(() => {
         const loadResume = async () => {
@@ -71,7 +80,9 @@ const Resume = () => {
                     <h2 className="text-4xl !text-black font-bold">Resume Review</h2>
                     {feedback ? (
                         <div className="flex flex-col gap-8 animate-in fade-in duration-1000">
-                           
+                            <Summary feedback={feedback} />
+                            <ATS score={feedback.ATS.score || 0} suggestions={feedback.ATS.tips || []} />
+                            <Details feedback={feedback} />
                         </div>
                     ) : (
                         <img src="/images/resume-scan-2.gif" className="w-full" />
