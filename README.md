@@ -40,10 +40,10 @@ Paste these commands in your terminal:
 # 📁 Folder Structure
 
 src/ <br>
-├── components/   &nbsp;     #Reusable UI components <br> <br>
-├── lib/          &nbsp;     #Puter logic, PDF tools, utils <br> <br>
-├── Routes/       &nbsp;     #App pages: Upload, Resume, Auth <br> <br>
-├── public/       &nbsp;     #Images and static files <br> <br>
+├── components/   &nbsp;     #Reusable UI components <br> 
+├── lib/          &nbsp;     #Puter logic, PDF tools, utils <br> 
+├── Routes/       &nbsp;     #App pages: Upload, Resume, Auth <br> 
+├── public/       &nbsp;     #Images and static files <br> 
 
 # 🧪 How It Works
 
