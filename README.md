@@ -1,24 +1,24 @@
-📄 Resumind – Smart Resume Analyzer
+## 📄 Resumind – Smart Resume Analyzer
 
 Resumind is a web app that gives smart, AI-powered feedback on your resume to help you land your dream job. Upload your resume, describe the job you're applying for, and get ATS-friendly insights and suggestions — instantly.
 
-🚀 Features
+##🚀 Features
 
-✅ Upload your resume (PDF)
+#✅ Upload your resume (PDF)
 
-🧠 AI-powered resume analysis
+#🧠 AI-powered resume analysis
 
-📸 PDF to image conversion
+#📸 PDF to image conversion
 
-📊 ATS score and feedback
+#📊 ATS score and feedback
 
-💾 Resume + feedback saved using Puter KV storage
+#💾 Resume + feedback saved using Puter KV storage
 
-🔐 Authentication with Puter Auth
+#🔐 Authentication with Puter Auth
 
-⚡ Fast and responsive UI built with React + Zustand
+#⚡ Fast and responsive UI built with React + Zustand
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Frontend: React, Vite, Zustand
 
@@ -30,14 +30,14 @@ PDF to Image: pdfjs-dist
 
 Routing: React Router DOM
 
-🛆 Installation
+## 🛆 Installation
 <br>
 ``git clone https://github.com/Maazthepal/ResumeAi.git `` <br>
 ``cd resumeAi``<br>
 ``npm install``<br>
 ``npm run dev``<br>
 
-📁 Folder Structure
+# 📁 Folder Structure
 
 src/
 ├── components/        # Reusable UI components
@@ -45,7 +45,7 @@ src/
 ├── Routes/             # App pages: Upload, Resume, Auth
 ├── public/            # Images and static files
 
-🧪 How It Works
+# 🧪 How It Works
 
 User uploads a PDF resume.
 
@@ -71,7 +71,7 @@ The prompt is customized using:
 
 This ensures personalized resume feedback using context-aware instructions.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Maaz Asif📬 LinkedIn • ✉️ https://www.linkedin.com/in/maaz-asif-7060b2279/
 
@@ -81,7 +81,7 @@ If using environment variables with Puter, define them in a .env file:
 
 VITE_PUTER_API_KEY=your_key_here
 
-ℹ️ License
+# ℹ️ License
 
 MIT — feel free to fork and modify.
 
