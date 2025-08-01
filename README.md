@@ -41,9 +41,9 @@ Paste these commands in your terminal:
 
 src/ <br>
 ├── components/   &nbsp;     # Reusable UI components <br>
-├── lib/               # Puter logic, PDF tools, utils <br>
-├── Routes/            # App pages: Upload, Resume, Auth <br>
-├── public/            # Images and static files <br>
+├── lib/          &nbsp;     # Puter logic, PDF tools, utils <br>
+├── Routes/       &nbsp;     # App pages: Upload, Resume, Auth <br>
+├── public/       &nbsp;     # Images and static files <br>
 
 # 🧪 How It Works
 
