@@ -2,23 +2,23 @@
 
 Resumind is a web app that gives smart, AI-powered feedback on your resume to help you land your dream job. Upload your resume, describe the job you're applying for, and get ATS-friendly insights and suggestions — instantly.
 
-##🚀 Features
+## 🚀 Features
 
-#✅ Upload your resume (PDF)
+# ✅ Upload your resume (PDF)
 
-#🧠 AI-powered resume analysis
+# 🧠 AI-powered resume analysis
 
-#📸 PDF to image conversion
+# 📸 PDF to image conversion
 
-#📊 ATS score and feedback
+# 📊 ATS score and feedback
 
-#💾 Resume + feedback saved using Puter KV storage
+# 💾 Resume + feedback saved using Puter KV storage
 
-#🔐 Authentication with Puter Auth
+# 🔐 Authentication with Puter Auth
 
-#⚡ Fast and responsive UI built with React + Zustand
+# ⚡ Fast and responsive UI built with React + Zustand
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React, Vite, Zustand
 
@@ -32,10 +32,14 @@ Routing: React Router DOM
 
 ## 🛆 Installation
 <br>
-``git clone https://github.com/Maazthepal/ResumeAi.git `` <br>
-``cd resumeAi``<br>
-``npm install``<br>
-``npm run dev``<br>
+``git clone https://github.com/Maazthepal/ResumeAi.git `` 
+<br>
+``cd resumeAi``
+<br>
+``npm install``
+<br>
+``npm run dev``
+<br>
 
 # 📁 Folder Structure
 
@@ -59,7 +63,7 @@ AI is given a job title and description to tailor the analysis.
 
 Feedback is parsed and rendered on the review page.
 
-🧠 AI Prompt Strategy
+# 🧠 AI Prompt Strategy
 
 The prompt is customized using:
 
